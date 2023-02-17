@@ -1,4 +1,4 @@
-package com.utils.fixtures;
+package com.utils.fixturesfactory;
 
 import lombok.*;
 import strategy.Name;

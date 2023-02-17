@@ -1,11 +1,11 @@
-package com.utils.templates;
+package com.utils.templatesfix;
 
 import br.com.six2six.fixturefactory.Fixture;
 import br.com.six2six.fixturefactory.Rule;
 import br.com.six2six.fixturefactory.loader.TemplateLoader;
 import com.github.javafaker.Faker;
-import com.utils.fixtures.Address;
-import com.utils.fixtures.Employee;
+import com.utils.fixturesfactory.Address;
+import com.utils.fixturesfactory.Employee;
 
 import java.util.ArrayList;
 import java.util.Arrays;

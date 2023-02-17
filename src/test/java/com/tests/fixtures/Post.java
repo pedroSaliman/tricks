@@ -2,8 +2,7 @@ package com.tests.fixtures;
 
 import br.com.six2six.fixturefactory.Fixture;
 import br.com.six2six.fixturefactory.loader.FixtureFactoryLoader;
-import com.utils.fixtures.Employee;
-import com.utils.fixtures.Job;
+import com.utils.fixturesfactory.Job;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.Assert;
@@ -11,14 +10,12 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import java.util.List;
-
 import static io.restassured.RestAssured.given;
 
 public class Post {
     @BeforeSuite
     public void setUp() {
-        FixtureFactoryLoader.loadTemplates("com.utils.templates");
+        FixtureFactoryLoader.loadTemplates("com.utils.templatesfix");
     }
 
 

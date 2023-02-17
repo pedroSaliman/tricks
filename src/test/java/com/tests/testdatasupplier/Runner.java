@@ -1,7 +1,7 @@
 package com.tests.testdatasupplier;
 
 import com.utils.testdatasupplier.entity.User;
-import com.utils.zerocell.TestData;
+import com.utils.zerocellLibrary.TestData;
 import io.github.sskorol.core.DataSupplier;
 import io.github.sskorol.data.CsvReader;
 import io.github.sskorol.data.XlsxReader;

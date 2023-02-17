@@ -2,8 +2,8 @@ package com.tests.zerocell;
 
 import com.utils.enums.BrowserType;
 import com.utils.factory.DriverFactory;
-import com.utils.zerocell.ExcelReader;
-import com.utils.zerocell.TestData;
+import com.utils.zerocellLibrary.ExcelReader;
+import com.utils.zerocellLibrary.TestData;
 import io.github.sskorol.core.DataSupplier;
 import io.github.sskorol.data.XlsxReader;
 import one.util.streamex.StreamEx;

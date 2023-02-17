@@ -2,8 +2,8 @@ package com.tests.fixtures;
 
 import br.com.six2six.fixturefactory.Fixture;
 import br.com.six2six.fixturefactory.Rule;
-import com.utils.fixtures.Address;
-import com.utils.fixtures.Employee;
+import com.utils.fixturesfactory.Address;
+import com.utils.fixturesfactory.Employee;
 
 import java.util.Arrays;
 import java.util.List;

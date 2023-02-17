@@ -1,7 +1,7 @@
 package com.tests.fixtures;
 
 import br.com.six2six.fixturefactory.loader.FixtureFactoryLoader;
-import com.utils.fixtures.Employee;
+import com.utils.fixturesfactory.Employee;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.Assert;

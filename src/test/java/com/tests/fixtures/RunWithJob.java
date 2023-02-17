@@ -2,13 +2,10 @@ package com.tests.fixtures;
 
 import br.com.six2six.fixturefactory.Fixture;
 import br.com.six2six.fixturefactory.Rule;
-import com.utils.fixtures.Job;
-import uk.co.jemos.podam.api.ClassInfoStrategy;
-import uk.co.jemos.podam.api.DataProviderStrategy;
+import com.utils.fixturesfactory.Job;
 import uk.co.jemos.podam.api.PodamFactory;
 import uk.co.jemos.podam.api.PodamFactoryImpl;
 
-import java.lang.reflect.Type;
 import java.util.List;
 
 public class RunWithJob {

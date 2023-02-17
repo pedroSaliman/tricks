@@ -1,7 +1,7 @@
 package com.tests.zerocell;
 
 import com.creditdatamw.zerocell.Reader;
-import com.utils.zerocell.TestData;
+import com.utils.zerocellLibrary.TestData;
 
 import java.io.File;
 import java.util.List;
